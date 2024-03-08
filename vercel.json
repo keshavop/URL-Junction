@@ -1,0 +1,8 @@
+{
+    "redirects": [
+        {
+            "destination": "https://keshavop.vercel.app",
+            "source": "/(.*)"
+        }
+    ]
+}
